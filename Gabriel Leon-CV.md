@@ -9,7 +9,7 @@ I'm Gabriel León, a Data Analyst with over 4 years of experience in analyzing a
 
 ## WORK EXPERIENCE
 
-**Data Analyst at SGF Global** (08/2022 – Present), Heredia, Costa Rica
+**Data Analyst at SGF Global** (08/2022 – 08/2024), Heredia, Costa Rica
 
 - Implementation of forms and automations with Power Apps and Power Automate.
 - Support for Power BI reports.
@@ -35,6 +35,7 @@ I'm Gabriel León, a Data Analyst with over 4 years of experience in analyzing a
 - Developed a new reporting methodology using Microsoft Power BI.
 
 ## EDUCATION
+
 **Bachelor in industrial engineering**, Fidélitas University (05/2023 – Present), San José, Costa Rica  
 **Bachelor in Data Science**, LEAD University (01/2020 – 12/2023), San José, Costa Rica  
 **Middle Technician in Computer Networking**, Colegio Técnico Profesional de Hatillo (02/2017 – 12/2019), San José, Costa Rica
