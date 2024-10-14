@@ -1,7 +1,7 @@
 # Gabriel León Castro - Data Analyst
 
 **Cellphone number:** (+506) 8630-3958  
-**E-mail address:** gabrielleon917@gmail.com
+**E-mail address:** <gabrielleon917@gmail.com>
 
 ## ABOUT ME
 
@@ -12,7 +12,7 @@ I'm Gabriel León, a Data Analyst with over 4 years of experience in analyzing a
 **Data Analyst at SGF Global** (08/2022 – 08/2024), Heredia, Costa Rica
 
 - Implementation of forms and automations with Power Apps and Power Automate.
-- Support for Power BI reports.
+- Support for Power BI and Tableau reports.
 - Report creation and infrastructure with Power BI and Microsoft SQL Database. Implemented SQL scripts to extract data for analysis.
 - Utilized Excel and Python to perform statistical analysis on survey responses.
 
@@ -50,6 +50,7 @@ I'm Gabriel León, a Data Analyst with over 4 years of experience in analyzing a
 - Data Analysis
 - Data Modeling
 - Data mining
+- Tableau
 - Microsoft Power BI
 - Microsoft Power Apps
 - Microsoft Power Automate
