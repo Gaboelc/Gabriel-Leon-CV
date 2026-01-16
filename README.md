@@ -1,62 +1,60 @@
 # Gabriel León Castro - Data Analyst
 
 **Cellphone number:** (+506) 8630-3958  
-**E-mail address:** gabrielleon917@gmail.com
+**E-mail address:** <gabrielleon917@gmail.com>
 
 ## ABOUT ME
 
-I'm Gabriel León, a Data Analyst with over 4 years of experience in analyzing and visualizing large data sets. I'm an expert in tools such as SQL, Python, and Microsoft Power BI and have worked on projects for clients all over the world. I'm a team player and passionate about exploring and constantly learning. I'm highly skilled and dedicated to my work, and have demonstrated my ability to turn data into valuable information for business decision-making. I enjoy working on challenging projects and collaborating with my colleagues to achieve success.
+Data Analyst / Analytic Engineer with 5+ years of experience designing, modeling, and visualizing data for business decision-making. Strong expertise in **SQL, Python, Power BI, and Snowflake**, with hands-on experience delivering scalable analytics solutions in enterprise environments. Proven ability to collaborate with cross-functional teams, translate business requirements into technical solutions, and optimize data models and reporting performance. Passionate about continuous learning and building high-quality, data-driven products.
 
 ## WORK EXPERIENCE
 
-**Data Analyst at SGF Global** (08/2022 – Present), Heredia, Costa Rica
+**Consultant II. Analytic Engineering at Hakkōda, an IBM Company** (10/2024 – 01/2026), Heredia, Costa Rica
 
-- Implementation of forms and automations with Power Apps and Power Automate.
-- Support for Power BI reports.
-- Report creation and infrastructure with Power BI and Microsoft SQL Database. Implemented SQL scripts to extract data for analysis.
-- Utilized Excel and Python to perform statistical analysis on survey responses.
+- Designed, optimized, and maintained Power BI semantic models and reports, improving query performance, refresh times, and overall usability for business stakeholders.
+- Developed and supported Snowflake-based data warehouse solutions, including data modeling, ingestion pipelines, and transformation layers aligned with analytics best practices.
+- Collaborated with cross-functional teams (data engineers, analysts, and business users) to gather requirements and deliver scalable, production-ready analytics solutions.
+- Acted as a trusted analytics partner for stakeholders, enabling data-driven decision-making across multiple business domains.
+
+**Data Analyst at SGF Global** (08/2022 – 08/2024), Heredia, Costa Rica
+
+- Developed and maintained dashboards and reports using Power BI and Tableau.
+- Designed SQL queries and scripts to extract, transform, and analyze data from relational databases.
+- Built forms and automations using Power Apps and Power Automate to improve operational workflows.
+- Performed statistical analysis using Python and Excel on survey and operational datasets.
+- Supported analytics infrastructure and reporting for multiple business stakeholders.
 
 **Data Specialist at DHL** (05/2021 – 04/2022), Heredia, Costa Rica
 
-- Creation of a database infrastructure to store all the data of the America's DHL Service Desk.
-- Analysis of KPIs of the agents for the improvement of the performance and remuneration obtained from the DHL Service Desk for the Americas region.
-- Synthesize large amounts of data into an easy-to-understand report/dashboards and recommend points for improvement at the DHL Service Desk using Python and Microsoft Power BI.
-- Conducted extensive analysis of customer data to identify trends. Utilized SL to clean and organize data for analysis.
-- Created data visualizations to communicate findings to stakeholders. Wrote SL queries to pull data for ad-hoc analysis.
+- Designed and implemented a centralized database infrastructure for the Americas Service Desk.
+- Analyzed agent KPIs to support performance improvement and compensation models.
+- Built dashboards and reports using Power BI and Python to communicate insights to stakeholders.
+- Cleaned, transformed, and analyzed large datasets using SQL.
+- Delivered actionable insights to improve service efficiency across the region.
 
 **Data Analyst at Intel Corporation** (10/2019 – 04/2021), Heredia, Costa Rica
 
-- Created and ran SQL queries to collect data for analysis.
-- Conducted exploratory data analysis to identify patterns and trends.
-- Wrote Python scripts to automate data collection and analysis. Model future processor architectures and analyze the behavior in order to find improvement points.
-- Visualize the data collected using Excel and Microsoft Power BI tools.
-- Presented findings to upper management to inform business decisions.
-- Developed and implemented a new data analysis process.
-- Developed a new reporting methodology using Microsoft Power BI.
+- Developed SQL queries and Python scripts to automate data collection and analysis.
+- Conducted exploratory data analysis to identify trends and performance improvement opportunities.
+- Built dashboards and reports using Power BI and Excel for leadership teams.
+- Modeled and analyzed processor architecture data to support engineering decision-making.
+- Presented analytical findings to management and technical stakeholders.
 
 ## EDUCATION
-**Bachelor in industrial engineering**, Fidélitas University (05/2023 – Present), San José, Costa Rica  
-**Bachelor in Data Science**, LEAD University (01/2020 – 12/2023), San José, Costa Rica  
-**Middle Technician in Computer Networking**, Colegio Técnico Profesional de Hatillo (02/2017 – 12/2019), San José, Costa Rica
 
-## SKILLS
+**Bachelor’s Degree in Data Science**, LEAD University (01/2020 – 12/2023), San José, Costa Rica  
+**Technical Degree in Computer Networking**, Colegio Técnico Profesional de Hatillo (02/2017 – 12/2019), San José, Costa Rica
 
-- Python
-- R Language
-- SQL Database
-- NoSQL Database
-- Extract, Transform, Load (ETL)
-- Data Analysis
-- Data Modeling
-- Data mining
-- Microsoft Power BI
-- Microsoft Power Apps
-- Microsoft Power Automate
-- Pandas/Numpy
-- Scikit-learn
-- Microsoft Azure
+## TECHNICAL SKILLS
 
-### SOCIAL NETWORKS
+- **Data & Analytics:** SQL, Python, Power BI, Tableau, Snowflake
+- **Data Engineering:** ETL / ELT, Data Modeling, Data Warehousing
+- **Programming & Libraries:** Pandas, R, NumPy, Scikit-learn
+- **Databases:** SQL Databases, NoSQL Databases
+- **Cloud & Tools:** Microsoft Azure, Excel (Advanced), Power Apps, Power Automate
 
-- LinkedIn: [https://www.linkedin.com/in/gaboelc/](https://www.linkedin.com/in/gaboelc/)
-- GitHub: [https://github.com/Gaboelc](https://github.com/Gaboelc)
+## SOCIAL NETWORKS
+
+- **LinkedIn:** [https://www.linkedin.com/in/gaboelc/](https://www.linkedin.com/in/gaboelc/)
+- **GitHub:** [https://github.com/Gaboelc](https://github.com/Gaboelc)
+- **Website:** [https://www.gaboelc.dev/](https://www.gaboelc.dev/)
